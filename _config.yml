@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yasin KUTUK / A data enthusiast academic in Economics"
+title                    : "Yasin KUTUK / DataLover"
 title_separator          : "-"
 name                     : &name "Yasin KUTUK"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "A data enthusiast academic in Economics"
+url                      : https://yasinkutuk.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yasinkutuk/yasinkutuk.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
