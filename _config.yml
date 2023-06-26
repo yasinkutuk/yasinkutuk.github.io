@@ -85,9 +85,10 @@ author:
   bio              : "A data enthusiast academic in Economics."
   location         : "Istanbul, Turkiye"
   employer         :
+  # Bunu SCOPUS ID yaptım
   pubmed           : "https://www.scopus.com/authid/detail.uri?authorId=57224580749"
   googlescholar    : "https://scholar.google.com.tr/citations?user=Cj_erekAAAAJ&hl=tr&authuser=1&oi=ao"
-  email            :
+  email            : "yasinkutuk@gmail.com"
   researchgate     :  "https://www.researchgate.net/profile/Yasin-Kutuk"
   uri              :
   bitbucket        :
@@ -97,7 +98,8 @@ author:
   facebook         :
   foursquare       :
   github           : "yasinkutuk"
-  google_plus      :
+  # Bunu SSRN Yaptım
+  google_plus      : "https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2609121"
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
