@@ -7,6 +7,8 @@
 
 # Site Settings
 locale                   : "en-US"
+title                    : "Yasin KUTUK / Site Title"
+=======
 title                    : "Yasin KUTUK / DataLover"
 title_separator          : "-"
 name                     : &name "Yasin KUTUK"
