@@ -98,11 +98,11 @@ author:
   facebook         :
   foursquare       :
   github           : "yasinkutuk"
-  # Bunu SSRN Yaptım
-  google_plus      : "https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2609121"
+  google_plus      : 
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  # Bunu SSRN Yaptım
+  impactstory      : "https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2609121"
   lastfm           :
   linkedin         :
   orcid            : "https://orcid.org/0000-0003-2304-8309"
