@@ -11,30 +11,67 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.A. in Philosophy, Ankara University, 2007
+* B.A. in Business Administration, Marmara University, 2023
+* M.S. in Economics, Istanbul Technical University, 2011
+* Ph.D. in Economics, Istanbul Technical University, 2019
 
-Work experience
+Academic Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Dec 2019 - Present: Assistant Professor
+  * Altınbaş University
+  * School of Economics, Administrative and Social Sciences
+  * Duties included: Research and Teaching
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Oct 2014 - May 2019: Research Assistant
+  * Sabancı University
+  * Tubitak Research
+  * Supervisor: Professor Mine AKSU
+
+* Nov 2013 - Dec 2019: Research Assistant
+  * Altınbaş University (formerly Istanbul Kemerburgaz University)
+  * School of Economics, Administrative and Social Sciences
+  * Duties included: Research and Teaching
+
+* Feb 2011 - Aug 2012: Research Assistant
+  * Cass Business School - City University
+  * Duties included: Data collecting for an IMF based project
+  * Supervisor: Gulnur MURADOGLU, Mario LEVIS
+
+* Sep 2009 - Jan 2010: Research Assistant
+  * Kadir Has University
+  * Duties included: Statistical consultancy, big data cleaning large amount of data, testing and simulation
+  * Supervisor: Canan Jouan de Kervenoel
+
+* May 2009 - May 2014: Research Assistant
+  * Sabancı University
+  * Tubitak Research
+  * Supervisor: Professor Mine AKSU
+
+
+Interests
+======
+* Computational Social Science
+* Machine / Deep Learning
+* Natural Language Processing
+* Econometrics
+* Statistics
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* LaTeX
+* Markdown
+* Object Oriented Programming
+  * Python
+  * R
+  * Julia
+* Commercial Packages
+  * STATA
+  * Eviews
+  * MATLAB
+  * LISREL
+  * SPSS
+  * GAUSS
 
 Publications
 ======
