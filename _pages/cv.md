@@ -48,7 +48,6 @@ Academic Experience
   * Tubitak Research
   * Supervisor: Professor Mine AKSU
 
-
 Interests
 ======
 * Computational Social Science
