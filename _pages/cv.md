@@ -15,8 +15,9 @@ Education
 * B.A. in Business Administration, Marmara University, 2003, 2023
 * B.A. in Philosophy, Ankara University, 2007
 * M.A. in Economics, Istanbul Technical University, 2011
-{% comment %} {% endcomment %}
 * Ph.D. in Economics, Istanbul Technical University, 2019
+
+{% comment %} {% endcomment %}
 
 Academic Experience
 ======
