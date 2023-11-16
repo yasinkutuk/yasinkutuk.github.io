@@ -11,11 +11,11 @@ redirect_from:
 
 Education
 ======
-{% comment %}
-* B.A. in Philosophy, Ankara University, 2007
+
 * B.A. in Business Administration, Marmara University, 2003, 2023
+* B.A. in Philosophy, Ankara University, 2007
 * M.A. in Economics, Istanbul Technical University, 2011
-{% endcomment %}
+{% comment %} {% endcomment %}
 * Ph.D. in Economics, Istanbul Technical University, 2019
 
 Academic Experience
