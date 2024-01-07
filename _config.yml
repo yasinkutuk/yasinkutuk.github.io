@@ -90,8 +90,9 @@ author:
   googlescholar    : "https://scholar.google.com.tr/citations?user=Cj_erekAAAAJ&hl=tr&authuser=1&oi=ao"
   email            : "yasinkutuk@gmail.com"
   researchgate     :  "https://www.researchgate.net/profile/Yasin-Kutuk"
-  uri              :
-  bitbucket        :
+ # Bunu WOS ID yaptım
+  uri              : "https://www.webofscience.com/wos/author/record/ABU-5343-2022"
+  bitbucket        : 
   codepen          :
   dribbble         :
   flickr           :
