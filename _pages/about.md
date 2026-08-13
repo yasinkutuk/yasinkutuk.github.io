@@ -12,7 +12,7 @@ Welcome to the home of curiosity. I am an academic who identifies himself as a c
 
 a Short Bio
 ======
-He is an Assistant Professor of Economics at Altinbas University. He earned his Ph.D. in Economics from Istanbul Technical University with a dissertation entitled "Essays on Estimation Methods: Three Comparative Essays on Econometrics and Machine Learning." He holds a BA in Philosophy and Business Administration, and an MA in Economics with an award-winning thesis.
+He is an Associate Professor of Quantitative Methods at Gebze Technical University. He earned his Ph.D. in Economics from Istanbul Technical University with a dissertation entitled "Essays on Estimation Methods: Three Comparative Essays on Econometrics and Machine Learning." He holds a BA in Philosophy and Business Administration, and an MA in Economics with an award-winning thesis.
 
 He mainly specializes in computational social science (CSS), covering deep learning, natural language processing, applied/theoretical econometrics, and statistics. He has taught these for four years at Altinbas University in the Department of Economics and also publishes in CSS. He also worked as a researcher at Sabancı University and Cass Business School. 
 
